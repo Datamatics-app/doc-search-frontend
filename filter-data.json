@@ -1,0 +1,10 @@
+{
+  "companies": [
+    { "code": "C001", "name": "ABC Industries" },
+    { "code": "C002", "name": "XYZ Solutions" },
+    { "code": "C003", "name": "SecureTech Pvt Ltd" }
+  ],
+  "clusters": ["Corporate", "Technology", "Admin", "Logistics"],
+  "statuses": ["Draft", "Pending", "Approved", "Rejected"],
+  "processTypes": ["Tender", "RFQ", "Single Source", "Renewal"]
+}
